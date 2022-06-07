@@ -11,6 +11,7 @@ This repository contain sample project using the **AgoraRTCSDK-3.5.2.js**
 client.init("<---Your AppId here--->",() => console.log("AgoraRTC client initialized") ,handleFail);
 
 ```
+- Run `index.html`
 
 If trouble getting appID ? 
 read this [blog](https://sanathmurali99.medium.com/quick-start-tutorial-1-to-1-video-chat-for-web-agora-io-85c8d3400f0f) to figure it out!
